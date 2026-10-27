@@ -1,0 +1,129 @@
+{
+  "liveWritesPerformed": false,
+  "pageBodiesPreserved": true,
+  "categoryPageRenderer": "templates/collection.json -> main-collection -> native collection.products pagination",
+  "globalSectionFix": "config/settings_data.json current.sections dj-header and dj-footer",
+  "homepageActionRequired": "Select the new theme homepage in an unpublished preview or insert header/footer in supported global Page Builder fields; existing homepage remains separate Page Builder layout.",
+  "categories": [
+    {
+      "slug": "car-and-road",
+      "url": "/collections/car-and-road",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "home-and-everyday",
+      "url": "/collections/home-and-everyday",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "outdoor-and-keshta",
+      "url": "/collections/outdoor-and-keshta",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "bundles-and-offers",
+      "url": "/collections/bundles-and-offers",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "car-emergency-gear",
+      "url": "/collections/car-emergency-gear",
+      "type": "subcategory",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "car-care-cleaning",
+      "url": "/collections/car-care-cleaning",
+      "type": "subcategory",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "home-cleaning-storage",
+      "url": "/collections/home-cleaning-storage",
+      "type": "subcategory",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "kitchen-appliances",
+      "url": "/collections/kitchen-appliances",
+      "type": "subcategory",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "home-comfort-heating",
+      "url": "/collections/home-comfort-heating",
+      "type": "subcategory",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "kids-and-babies",
+      "url": "/collections/kids-and-babies",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "electronics-and-smart-devices",
+      "url": "/collections/electronics-and-smart-devices",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "wellness-and-fitness",
+      "url": "/collections/wellness-and-fitness",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    },
+    {
+      "slug": "garden-and-outdoor",
+      "url": "/collections/garden-and-outdoor",
+      "type": "primary",
+      "status": "existing native YouCan collection with native products"
+    }
+  ],
+  "informationPages": [
+    {
+      "slug": "contact-us",
+      "url": "/pages/contact-us",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "faq",
+      "url": "/pages/faq",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "shipping-delivery",
+      "url": "/pages/shipping-delivery",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "return-policy",
+      "url": "/pages/return-policy",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "about-us",
+      "url": "/pages/about-us",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "how-to-pay",
+      "url": "/pages/how-to-pay",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "confidentiality",
+      "url": "/pages/confidentiality",
+      "status": "existing page; retain stored content and legal text"
+    },
+    {
+      "slug": "terms-and-conditions",
+      "url": "/pages/terms-and-conditions",
+      "status": "existing page; retain stored content and legal text"
+    }
+  ]
+}

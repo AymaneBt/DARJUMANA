@@ -1,0 +1,286 @@
+{
+  "sections_to_merge": {
+    "dj-header": {
+      "type": "dj-header",
+      "settings": {
+        "sticky_header": true,
+        "use_existing_menu": false
+      },
+      "blocks": {
+        "car_and_road": {
+          "type": "category_link",
+          "settings": {
+            "title": "للسيارة والطريق",
+            "slug": "car-and-road",
+            "parent_slug": ""
+          }
+        },
+        "home_and_everyday": {
+          "type": "category_link",
+          "settings": {
+            "title": "للبيت والحياة اليومية",
+            "slug": "home-and-everyday",
+            "parent_slug": ""
+          }
+        },
+        "outdoor_and_keshta": {
+          "type": "category_link",
+          "settings": {
+            "title": "للبر والتخييم",
+            "slug": "outdoor-and-keshta",
+            "parent_slug": ""
+          }
+        },
+        "kids_and_babies": {
+          "type": "category_link",
+          "settings": {
+            "title": "للأطفال والرضّع",
+            "slug": "kids-and-babies",
+            "parent_slug": ""
+          }
+        },
+        "electronics_and_smart_devices": {
+          "type": "category_link",
+          "settings": {
+            "title": "الإلكترونيات والأجهزة الذكية",
+            "slug": "electronics-and-smart-devices",
+            "parent_slug": ""
+          }
+        },
+        "wellness_and_fitness": {
+          "type": "category_link",
+          "settings": {
+            "title": "العناية الشخصية واللياقة",
+            "slug": "wellness-and-fitness",
+            "parent_slug": ""
+          }
+        },
+        "garden_and_outdoor": {
+          "type": "category_link",
+          "settings": {
+            "title": "الحدائق والديكور الخارجي",
+            "slug": "garden-and-outdoor",
+            "parent_slug": ""
+          }
+        },
+        "bundles_and_offers": {
+          "type": "category_link",
+          "settings": {
+            "title": "الباقات والعروض",
+            "slug": "bundles-and-offers",
+            "parent_slug": ""
+          }
+        },
+        "car_emergency_gear": {
+          "type": "category_link",
+          "settings": {
+            "title": "طوارئ وتجهيزات السيارة",
+            "slug": "car-emergency-gear",
+            "parent_slug": "car-and-road"
+          }
+        },
+        "car_care_cleaning": {
+          "type": "category_link",
+          "settings": {
+            "title": "عناية وتنظيف السيارة",
+            "slug": "car-care-cleaning",
+            "parent_slug": "car-and-road"
+          }
+        },
+        "home_cleaning_storage": {
+          "type": "category_link",
+          "settings": {
+            "title": "التنظيف والتنظيم",
+            "slug": "home-cleaning-storage",
+            "parent_slug": "home-and-everyday"
+          }
+        },
+        "home_comfort_heating": {
+          "type": "category_link",
+          "settings": {
+            "title": "الراحة والتدفئة",
+            "slug": "home-comfort-heating",
+            "parent_slug": "home-and-everyday"
+          }
+        },
+        "kitchen_appliances": {
+          "type": "category_link",
+          "settings": {
+            "title": "المطبخ والأجهزة المنزلية",
+            "slug": "kitchen-appliances",
+            "parent_slug": "home-and-everyday"
+          }
+        }
+      },
+      "order": [
+        "car_and_road",
+        "home_and_everyday",
+        "outdoor_and_keshta",
+        "kids_and_babies",
+        "electronics_and_smart_devices",
+        "wellness_and_fitness",
+        "garden_and_outdoor",
+        "bundles_and_offers",
+        "car_emergency_gear",
+        "car_care_cleaning",
+        "home_cleaning_storage",
+        "home_comfort_heating",
+        "kitchen_appliances"
+      ]
+    },
+    "dj-footer": {
+      "type": "dj-footer",
+      "settings": {
+        "contact_email": "darjumana.pro@gmail.com"
+      },
+      "blocks": {
+        "shop_car_and_road": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "للسيارة والطريق",
+            "url": "/collections/car-and-road"
+          }
+        },
+        "shop_home_and_everyday": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "للبيت والحياة اليومية",
+            "url": "/collections/home-and-everyday"
+          }
+        },
+        "shop_outdoor_and_keshta": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "للبر والتخييم",
+            "url": "/collections/outdoor-and-keshta"
+          }
+        },
+        "shop_kids_and_babies": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "للأطفال والرضّع",
+            "url": "/collections/kids-and-babies"
+          }
+        },
+        "shop_electronics_and_smart_devices": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "الإلكترونيات والأجهزة الذكية",
+            "url": "/collections/electronics-and-smart-devices"
+          }
+        },
+        "shop_wellness_and_fitness": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "العناية الشخصية واللياقة",
+            "url": "/collections/wellness-and-fitness"
+          }
+        },
+        "shop_garden_and_outdoor": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "الحدائق والديكور الخارجي",
+            "url": "/collections/garden-and-outdoor"
+          }
+        },
+        "shop_bundles_and_offers": {
+          "type": "footer_link",
+          "settings": {
+            "group": "shop",
+            "title": "الباقات والعروض",
+            "url": "/collections/bundles-and-offers"
+          }
+        },
+        "about_us": {
+          "type": "footer_link",
+          "settings": {
+            "group": "help",
+            "title": "عن دار جُمانة",
+            "url": "/pages/about-us"
+          }
+        },
+        "faq": {
+          "type": "footer_link",
+          "settings": {
+            "group": "help",
+            "title": "الأسئلة الشائعة",
+            "url": "/pages/faq"
+          }
+        },
+        "contact_us": {
+          "type": "footer_link",
+          "settings": {
+            "group": "help",
+            "title": "تواصلوا معنا",
+            "url": "/pages/contact-us"
+          }
+        },
+        "how_to_pay": {
+          "type": "footer_link",
+          "settings": {
+            "group": "help",
+            "title": "الطلب والدفع عند الاستلام",
+            "url": "/pages/how-to-pay"
+          }
+        },
+        "shipping_delivery": {
+          "type": "footer_link",
+          "settings": {
+            "group": "legal",
+            "title": "الشحن والتوصيل",
+            "url": "/pages/shipping-delivery"
+          }
+        },
+        "return_policy": {
+          "type": "footer_link",
+          "settings": {
+            "group": "legal",
+            "title": "الاسترجاع والاستبدال",
+            "url": "/pages/return-policy"
+          }
+        },
+        "confidentiality": {
+          "type": "footer_link",
+          "settings": {
+            "group": "legal",
+            "title": "سياسة الخصوصية",
+            "url": "/pages/confidentiality"
+          }
+        },
+        "terms_and_conditions": {
+          "type": "footer_link",
+          "settings": {
+            "group": "legal",
+            "title": "الشروط والأحكام",
+            "url": "/pages/terms-and-conditions"
+          }
+        }
+      },
+      "order": [
+        "shop_car_and_road",
+        "shop_home_and_everyday",
+        "shop_outdoor_and_keshta",
+        "shop_kids_and_babies",
+        "shop_electronics_and_smart_devices",
+        "shop_wellness_and_fitness",
+        "shop_garden_and_outdoor",
+        "shop_bundles_and_offers",
+        "about_us",
+        "faq",
+        "contact_us",
+        "how_to_pay",
+        "shipping_delivery",
+        "return_policy",
+        "confidentiality",
+        "terms_and_conditions"
+      ]
+    }
+  }
+}
